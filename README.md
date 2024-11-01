@@ -1,5 +1,7 @@
 # DJS04 Project Brief: Book Connect - Web Components
 
+**Project Brief link {[https://docs.google.com/document/d/1yA3R0fLgytq5TXaSmY4oc0tvyHdNZdJTVghfZ-C4Dt0/edit?usp=sharing]}
+
 Building upon your "Book Connect" project in DJS03, you will now dive into Web Components. This challenge will refine your skills in creating reusable, encapsulated, and interactive elements.
 
 🚨**NOTE** Here you are to continue where you left off in DJS03. This means you must build on your abstractions and work on transforming the Book Preview functionality into a web component🚨
